@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <web>
+    	<path>/scapdata/XDR</path>
+    	<delimiter>|</delimiter>
+    	<url_index>3</url_index>
+    </web>
+</configuration>
+

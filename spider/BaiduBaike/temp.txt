@@ -1,0 +1,2037 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="description" content="香港大学专业进修学院，简称HKU SPACE（School of Professional and Continuing Education，The University of Hong Kong），是香港大学的直属学院之一，致力于为在职人士提供有助个人、专业和事业发展的各种学习机会。...">
+<title>香港大学专业进修学院_百度百科</title>
+
+<meta name="keywords" content="香港大学专业进修学院 香港大学进修学院 香港大学SPACE学院 SPACE学院 香港大学专业进修学院基本信息 香港大学专业进修学院下属学院 香港大学专业进修学院教学中心 香港大学专业进修学院九龙东分校">
+<meta name="image" content="http://baike.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  void function(g,f,j,c,h,d,b){g.alogObjectName=h,g[h]=g[h]||function(){(g[h].q=g[h].q||[]).push(arguments)},g[h].l=g[h].l||+new Date,d=f.createElement(j),d.async=!0,d.src=c,b=f.getElementsByTagName(j)[0],b.parentNode.insertBefore(d,b)}(window,document,"script","http://img.baidu.com/hunter/alog/alog.min.js","alog");void function(){function c(){return;}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date);alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:c,tti:c,page_ready:c}}();void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+<meta name="csrf-token" content="">
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_74e1370.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common-base_016ba13.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_b0d7681.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/label/label_461cbe0.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_3e4292c.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/praise/praise_2120cd2.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/toolButtons_a2c470f.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons/userInfo_9ba20c1.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_b85b14d.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_637f952.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_9f629f5.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_1c34583.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader_e786bfb.css"/></head>
+
+<script type="text/javascript">
+    alog('speed.set', 'ht', +new Date);
+</script>
+
+<body class="wiki-lemma normal">
+
+
+<div class="header-wrapper">
+<ul class="wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-main cmn-clearfix">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="nav">
+<a href="http://news.baidu.com/" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a><a href="http://www.baidu.com/" data-href="http://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a><a href="http://tieba.baidu.com/" data-href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a><a href="http://zhidao.baidu.com/" data-href="http://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a><a href="http://music.baidu.com/" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30fr=bks0000&key=">音乐</a><a href="http://image.baidu.com/" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a><a href="http://v.baidu.com/" data-href="http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=22&ie=utf-8&fr=bks0000&word=">视频</a><a href="http://map.baidu.com/" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a><a class="baike">百科</a><a href="http://wenku.baidu.com/" data-href="http://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+</div>
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" name="word" type="text" autocomplete="off" autocorrect="off" value="香港大学专业进修学院" /><button id="search" type="button">进入词条</button><button id="searchLemma" type="button">搜索词条</button><a class="help" href="/help" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div></div>
+<li class="extra">
+<span id="close">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+</dl>
+<dl class="cat ">
+<dt><a>分类</a></dt>
+<dd>
+<div><a href="/art" target="_blank" class="art">艺术</a></div>
+<div><a href="/science" target="_blank" class="technology">科技</a></div>
+<div><a href="/ziran" target="_blank">自然</a></div>
+<div><a href="/wenhua" target="_blank">文化</a></div>
+<div><a href="/dili" target="_blank">地理</a></div>
+<div><a href="/shenghuo" target="_blank">生活</a></div>
+<div><a href="/shehui" target="_blank">社会</a></div>
+<div><a href="/renwu" target="_blank">人物</a></div>
+<div><a href="/jingji" target="_blank">经济</a></div>
+<div><a href="/tiyu" target="_blank">体育</a></div>
+<div><a href="/lishi" target="_blank">历史</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt><a>特色百科</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/shiji/2015?fr=navbar" target="_blank">史记·2015</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/operation/worldwar2" target="_blank">二战百科</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+</dd>
+</dl>
+<dl class="user" >
+<dt><a>用户</a></dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/event/ranmeng/" target="_blank">燃梦计划</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="cooperation" >
+<dt><a>权威合作</a></dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<dl class="mobile" >
+<dt><a>手机百科</a></dt>
+<dd>
+<div><a href="/m#download" target="_blank">客户端</a></div>
+<div><a href="/m#wap" target="_blank">网页版</a></div>
+</dd>
+</dl>
+<div class="usercenter">
+<div><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon" href="javascript:;" title="添加义项" nslog-type="50000101"></a>
+<a href="/divideload/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2" title="拆分词条" target="_blank" class="split-icon" style="display:none;" nslog-type="50000104"></a>
+<div class="top-collect" nslog="area" nslog-type="50000102">
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a href="javascript:void(0);" class="top-vote" nslog-type="50000103">
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a>
+<div class="bdsharebuttonbox top-share" data-tag="top-share">
+<a class="bds_more top-share-icon" data-cmd="more" nslog-type="9067">
+<span class="bds_count share-count" id="j-topShareCount" data-cmd="count">0</span>
+</a>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1 >香港大学专业进修学院</h1>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" target="_blank" href="/view/10812319.htm" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">香港大学专业进修学院，简称HKU SPACE（School of Professional and Continuing Education，The University of Hong Kong），是香港大学的直属学院之一，致力于为在职人士提供有助个人、专业和事业发展的各种学习机会。</div>
+</div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+香港大学专业进修学院
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+School of Professional and Continuing Education，The University of Hong Kong
+</dd>
+<dt class="basicInfo-item name">类&nbsp;&nbsp;&nbsp;&nbsp;别</dt>
+<dd class="basicInfo-item value">
+私立大学
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">知名校友</dt>
+<dd class="basicInfo-item value">
+北京广播电视大学
+</dd>
+<dt class="basicInfo-item name">主要院系</dt>
+<dd class="basicInfo-item value">
+金融商业学院、人文及法律学院、生命科学及科技学院
+</dd>
+<dt class="basicInfo-item name">类&nbsp;&nbsp;&nbsp;&nbsp;型</dt>
+<dd class="basicInfo-item value">
+非牟利担保有限公司
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-4">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">基本信息</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">简介</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">学院历史</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_3">学院与内地的合作</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">下属学院</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">概述</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">金融商业学院</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">人文及法律学院</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">生命科学及科技学院</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_5">香港大学附属学院</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_6">香港大学专业进修学院保良局社区书院</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">教学中心</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">香港大学本部</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">金钟教学中心</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_3">统一教学中心</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_4">港大保良社区书院</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_5">北角城教学中心</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_6">港岛东分校</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_7">友邦广场教学中心</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_8">数码港教学中心</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">九龙东分校</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">九龙西分校</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">太古城地利亚</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_3">保良局唐乃勤初中书院</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_1" class="lemma-anchor " ></a>
+<a name="基本信息" class="lemma-anchor " ></a>
+</div><div class="para-title level-2">
+<h2 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>基本信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="1_1" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_1_1" class="lemma-anchor " ></a>
+<a name="简介" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>简介</h3>
+</div>
+<div class="para" label-module="para"><br/>　　<div class="lemma-picture text-pic layout-right" style="width:250px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/5beeba0ff945d082aa64570a?fr=lemma&ct=single" target="_blank"
+		title="" style="width:250px;height:84px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://c.hiphotos.baidu.com/baike/s%3D250/sign=32b432b7bc3eb13540c7b0be961fa8cb/38dbb6fd5266d016bb9a8077972bd40734fa35e9.jpg"  alt="" style="width:250px;height:84px;"/>
+</a>
+</div></div>
+<div class="para" label-module="para">香港大学在普通高等教育领域久负盛名，而香港大学专业进修学院经过50多年的发展，成为与纽约大学、伦敦大学齐名的全球三大专业人才培养机构之一。<sup>[1]</sup><a class="sup-anchor" name="ref_[1]_6631904">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="1_2" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_1_2" class="lemma-anchor " ></a>
+<a name="学院历史" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>学院历史</h3>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" title="香港国际教育展上HKU SPACE展台"  href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/2260885/f29faa8fc054a681f01f36d4?fr=lemma&ct=cover" target="_blank"  style="width:222px;" nslog-type="10000206">
+<div class="album-wrap" style="width:220px;height:146px;">
+<img class="picture" alt="香港国际教育展上HKU SPACE展台" src="http://e.hiphotos.baidu.com/baike/s%3D220/sign=564c6360d9f9d72a1364171fe42a282a/00e93901213fb80e37ec668836d12f2eb93894ab.jpg" style="width:220px;height:146px;"/>
+</div>
+<div class="description">
+香港国际教育展上HKU SPACE展台
+<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+1956/57 年，香港大学校外课程部正式成立，成为香港首个由大学开办的校外持续教育部门。校外课程部为广大社会人士提供终生学习的机会，在推广持续教育方面担当重要的角色。</div>
+<div class="para" label-module="para">1992 年，校外课程部易名为香港大学专业进修学院(HKU SPACE)，作为香港大学的外展教学部门，以致力为在职者提供有助个人、专业和事业发展的各种学习机会为宗旨。</div>
+<div class="para" label-module="para">1996年，学院转为自负盈亏模式运作。</div>
+<div class="para" label-module="para">1999年，学院成为非牟利担保有限公司。</div><div class="anchor-list">
+<a name="1_3" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_1_3" class="lemma-anchor " ></a>
+<a name="学院与内地的合作" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>学院与内地的合作</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:200px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/1b0d4f0fd73bfc456159f316?fr=lemma&ct=single" target="_blank"
+		title="" style="width:200px;height:57px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://g.hiphotos.baidu.com/baike/s%3D220/sign=a7b5127db31bb0518b24b42a067bda77/b3fb43166d224f4a2e666d4c09f790529922d1f5.jpg"  alt="" style="width:200px;height:57px;"/>
+</a>
+</div>2005年，香港大学专业进修学院与苏州科技学院及高博教育携手成立苏州港大思培学院。学院坐落于苏州，为迎合整个长三角区域经济和社会发展的长远需求，从国际教育的策略视野出发，以就业为导向，设立了国际化、应用型、与国际专业资格相衔接的课程。学院开办两年副学士和三年大专课程，包括会计、工商行政管理、商务英语、酒店管理、国际金融、国际贸易、物流管理及市场营销各个专业。两年制的副学士学位课程，为学生升读外国大学作好准备。目前除了国内学生外，也吸引了不少国外学生报读。从2010年开始，课程向香港学生开放，让香港学生可以在国内以较低廉的价格修读副学士学位，同时，又可以近距离、较深入地了解中国语文和文化，和中国急剧的经济发展。大专毕业生则可取得副学士资格及国家承认的大专文凭。完成课程后，毕业生可按成绩升读本地或海外大学的本科课程。</div>
+<div class="para" label-module="para">2010年，学院成立<a target=_blank href="/view/8711868.htm">香港大学SPACE中国商业学院</a>（简称：港大ICB）。凭藉香港大学学术上的优势，学院推出一系列具有国际视野的课程，除传授前沿的专业知识外，也会结合内地的实际需求，<div class="lemma-picture text-pic layout-right" style="width:250px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/b58f8c5494eef01f69d76c56e1fe9925bd317d65?fr=lemma&ct=single" target="_blank"
+		title="" style="width:250px;height:67px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://d.hiphotos.baidu.com/baike/s%3D250/sign=a80cf3b29213b07eb9bd570d3cd59113/b58f8c5494eef01f69d76c56e1fe9925bd317d65.jpg"  alt="" style="width:250px;height:67px;"/>
+</a>
+</div>侧重培养内地专业及商管领袖解决问题的能力，以推动中国企业的管理创新和策略创新。港大ICB在北京、上海和深圳已先后设立教学点，专注为中国培育企业领导人才。迄今为止，内地毕业学员已超过5,000人。目前开办的课程包括《整合营销传播》、《组织与人力资源管理》、《企业财务与投资管理》、《整合实效管理》、《产品创新与创意管理》、《服务创新与体验策略》、《金融市场与投资组合》、《企业教练与领导力培育》、《信息战略与企业转型》、《B2B市场战略与管理》、《零售管理与购物者营销》11门专业人员研究生文凭课程；以及《国际化运营与管理》、《传媒管理》和《创新营销与组织革新》《政府经济与社会管理》4门高管人员研究生文凭课程。此外，学院还可按照企业的需要量身订造不同的内训及来港培训课程。</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:250px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/f6428f8f4f2e2395503d9217?fr=lemma&ct=single" target="_blank"
+		title="" style="width:250px;height:57px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://h.hiphotos.baidu.com/baike/s%3D250/sign=ad65f25cc895d143de76e32643f18296/9f2f070828381f3006e693f6a9014c086f06f0f6.jpg"  alt="" style="width:250px;height:57px;"/>
+</a>
+</div>2011年，香港大学专业进修学院与北京广播电视大学开展战略合作，专注开放远程教育领域的发展。为帮助内地教育工作者了解网络教学的基本原理，搭建网络课程的设计与开发方面的交流平台，双方合作开发了《网络课程的设计与开发》在线课程。课程目前吸引了内地多家广播电视大学系统单位和网络教育学院的在职教师与工作人员报读。毕业生可以获得香港大学专业进修学院颁发的“香港大学专业进修学院培训结业证书”(中英文版)和北京广播电视大学的“北京广播电视大学培训结业证书”，并成为香港大学专业进修学院和北京广播电视大学的终身校友。</div><div class="anchor-list">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_2" class="lemma-anchor " ></a>
+<a name="下属学院" class="lemma-anchor " ></a>
+</div><div class="para-title level-2">
+<h2 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>下属学院</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="2_1" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_2_1" class="lemma-anchor " ></a>
+<a name="概述" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>概述</h3>
+</div>
+<div class="para" label-module="para">学院除原有的三大学院<div class="lemma-picture text-pic layout-right" style="width:161px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/507c3897aa3b160254fb96e2?fr=lemma&ct=single" target="_blank"
+		title="" style="width:161px;height:220px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://d.hiphotos.baidu.com/baike/s%3D220/sign=5e9efa7c73f082022992963d7bfafb8a/e824b899a9014c089dd336fa0a7b02087af4f481.jpg"  alt="" style="width:161px;height:220px;"/>
+</a>
+</div><div class="lemma-picture text-pic layout-right" style="width:161px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/72ccb777f1ad9874b151b914?fr=lemma&ct=single" target="_blank"
+		title="" style="width:161px;height:220px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://a.hiphotos.baidu.com/baike/s%3D220/sign=5782d3b3d100baa1be2c40b97711b9b1/5bafa40f4bfbfbed63db282078f0f736aec31fea.jpg"  alt="" style="width:161px;height:220px;"/>
+</a>
+</div>（金融商业学院、人文及法律学院、生命科学及科技学院）之外，还包括香港大学附属学院、与香港保良局合办的香港大学专业进修学院保良局社区书院、与苏州科技学院及高博教育合办的苏州港大思培学院、专注内地商业市场的中国商业学院。</div><div class="anchor-list">
+<a name="2_2" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_2_2" class="lemma-anchor " ></a>
+<a name="金融商业学院" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>金融商业学院</h3>
+</div>
+<div class="para" label-module="para">金融商业学院致力为商业及金融界提供优质专业的进修教育，所提供的各项短期以至深造课程涵盖会计学、财务学、管理学及市场学。本学院亦为在职人士提供实用兼读课程，包括商业软技巧课程系列，并在香港大学附属学院、香港大学专业进修学院保良局社区书院，以及国际学位课程中心，为高中毕业生开办多元化的全日制课程。</div><div class="anchor-list">
+<a name="2_3" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_2_3" class="lemma-anchor " ></a>
+<a name="人文及法律学院" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>人文及法律学院</h3>
+</div>
+<div class="para" label-module="para">人文及法律学院涵盖广泛的学术领域，所开设的多项课程包括法律、社会科学、艺术及人文科学等18个学科，以应经济、社会以至个别学生的需求。学院提供多种不同程度的课程，从证书、文凭、学位到深造文凭、硕士以至博士等学历。创意及表演艺术中心隶属人文及法律学院，致力与学院紧密合作，提升学院艺术课程的水平。</div><div class="anchor-list">
+<a name="2_4" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_2_4" class="lemma-anchor " ></a>
+<a name="生命科学及科技学院" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>生命科学及科技学院</h3>
+</div>
+<div class="para" label-module="para">生命科学及科技学院致力开办高质素课程及培训项目，除短期课程外，亦有达深造水平的，涵盖范畴包括：资讯科技、健康及应用科学、中医药学。此等课程以持续专业发展为重点，且达高学术水平；而部分本学院颁授的学历已获得相关专业团体认可 。</div>
+<div class="para" label-module="para">设于金钟及美孚教学中心的两所中医临床中心及中药房为中医药学学员提供由中医专家带教的临床见习场所，在实现教学目标的同时，同时为市民大众提供中医诊疗服务。</div><div class="anchor-list">
+<a name="2_5" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_2_5" class="lemma-anchor " ></a>
+<a name="香港大学附属学院" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>香港大学附属学院</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:210px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/7a8a1446f6de95666a63e515?fr=lemma&ct=single" target="_blank"
+		title="" style="width:210px;height:47px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://e.hiphotos.baidu.com/baike/s%3D220/sign=b38468c68226cffc6d2ab8b089004a7d/63d0f703918fa0ec0c3b7a52269759ee3c6ddbf4.jpg"  alt="" style="width:210px;height:47px;"/>
+</a>
+</div>香港大学附属学院自2000年起为中五及中七毕业生提供全面的副学位课程。凭着优质的课程，学院在教育界建立良好声誉。学院开办的副学士及高级文凭课程涵盖多个不同范畴。副学士课程较着重学术锻炼，传授各种学科知识，为学生的升学路打下坚实基础；高级文凭课程则较专注专业知识及技能训练，培育专业人才。</div><div class="anchor-list">
+<a name="2_6" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_2_6" class="lemma-anchor " ></a>
+<a name="香港大学专业进修学院保良局社区书院" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>香港大学专业进修学院保良局社区书院</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:200px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/79b1e9361714525e0b55a9ec?fr=lemma&ct=single" target="_blank"
+		title="" style="width:200px;height:65px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://a.hiphotos.baidu.com/baike/s%3D220/sign=1ec983bcfd1f4134e437027c151e95c1/962bd40735fae6cdc35eb53e0fb30f2443a70f82.jpg"  alt="" style="width:200px;height:65px;"/>
+</a>
+</div>香港大学专业进修学院与保良局响应政府拓展专上教育政策，合办香港大学专业进修学院保良局社区书院（简称：港大保良社区书院），为莘莘学子提供副学士及高 级文凭课程。书院致力提供优质的专上教育，为年青人提供多元化的升学途径，透过灵活多变及互动的教学模式，提升他们知识和技能，增强竞争力，为将来升学及 就业作好准备。</div><div class="anchor-list">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3" class="lemma-anchor " ></a>
+<a name="教学中心" class="lemma-anchor " ></a>
+</div><div class="para-title level-2">
+<h2 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>教学中心</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" title="教学点"  href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/2260886/9319cf09ecaaaeedd0581b40?fr=lemma&ct=cover" target="_blank"  style="width:122px;" nslog-type="10000206">
+<div class="album-wrap" style="width:120px;height:150px;">
+<img class="picture" alt="教学点" src="http://h.hiphotos.baidu.com/baike/s%3D220/sign=6a5ef4331038534388cf8023a312b01f/9c16fdfaaf51f3deebfbbe3b94eef01f3a297927.jpg" style="width:120px;height:150px;"/>
+</div>
+<div class="description">
+教学点
+<span class="number">(12张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:114px;"></div>
+<div class="albumBgSec" style="width:108px;"></div>
+</div>
+</a>
+学院设有十所教学中心，为学员和教师提供完善的教学支援。除此之外，学员和教师更可享用电脑室、香港大学图书馆服务及学院的“网上教学平台”(SOUL)。</div><div class="anchor-list">
+<a name="3_1" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3_1" class="lemma-anchor " ></a>
+<a name="香港大学本部" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>香港大学本部</h3>
+</div>
+<div class="para" label-module="para">香港薄扶林道香港大学徐展堂楼 3 楼 304 室(太古楼侧)</div>
+<div class="para" label-module="para">开放时间: 星期一至五 - 8:30am — 6:00pm, 星期六 - 休息</div><div class="anchor-list">
+<a name="3_2" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3_2" class="lemma-anchor " ></a>
+<a name="金钟教学中心" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>金钟教学中心</h3>
+</div>
+<div class="para" label-module="para">香港夏悫道18号海富中心3楼(金钟港铁站A出口，经海富中心商场自动行人电梯上)</div>
+<div class="para" label-module="para">开放时间: 星期一至五 - 8:30am — 7:30pm, 星期六 - 8:30am — 5:30pm</div><div class="anchor-list">
+<a name="3_3" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3_3" class="lemma-anchor " ></a>
+<a name="统一教学中心" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>统一教学中心</h3>
+</div>
+<div class="para" label-module="para">香港金钟道95号统一中心6楼及34楼(金钟港铁站D出口)</div>
+<div class="para" label-module="para">开放时间: -</div><div class="anchor-list">
+<a name="3_4" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3_4" class="lemma-anchor " ></a>
+<a name="港大保良社区书院" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>港大保良社区书院</h3>
+</div>
+<div class="para" label-module="para">香港铜锣湾礼顿道66号</div>
+<div class="para" label-module="para">开放时间: 星期一至五 - 9:00am — 5:30pm, 星期六 – 休息</div><div class="anchor-list">
+<a name="3_5" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3_5" class="lemma-anchor " ></a>
+<a name="北角城教学中心" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>北角城教学中心</h3>
+</div>
+<div class="para" label-module="para">香港北角英皇道250号北角城中心1楼106、4楼403、406及407室、7楼707室、 11楼、13楼及14楼 ( 炮台山港铁站B出口)</div>
+<div class="para" label-module="para">开放时间: 星期一至五 - 8:30am — 7:30pm, 星期六 - 休息</div><div class="anchor-list">
+<a name="3_6" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3_6" class="lemma-anchor " ></a>
+<a name="港岛东分校" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>港岛东分校</h3>
+</div>
+<div class="para" label-module="para">香港北角英皇道494号(北角港铁站B3出口)</div>
+<div class="para" label-module="para">开放时间: 星期一至五 - 8:30am — 7:30pm, 星期六 - 8:30am — 5:30pm</div><div class="anchor-list">
+<a name="3_7" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3_7" class="lemma-anchor " ></a>
+<a name="友邦广场教学中心" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>友邦广场教学中心</h3>
+</div>
+<div class="para" label-module="para">香港北角电气道183号友邦广场15及18楼(炮台山港铁站A出口)</div>
+<div class="para" label-module="para">开放时间: -</div><div class="anchor-list">
+<a name="3_8" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_3_8" class="lemma-anchor " ></a>
+<a name="数码港教学中心" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>数码港教学中心</h3>
+</div>
+<div class="para" label-module="para">香港数码港道100号数码港一座五楼511-521室</div>
+<div class="para" label-module="para">开放时间: -</div><div class="anchor-list">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_4" class="lemma-anchor " ></a>
+<a name="九龙东分校" class="lemma-anchor " ></a>
+</div><div class="para-title level-2">
+<h2 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>九龙东分校</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">九龙九龙湾宏开道28号(九龙湾港铁站B出口)<sup>[2]</sup><a class="sup-anchor" name="ref_[2]_6631904">&nbsp;</a>
+</div>
+<div class="para" label-module="para">开放时间: 星期一至五 - 8:30am — 7:30pm, 星期六 - 8:30am — 5:30pm</div><div class="anchor-list">
+<a name="4_1" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_4_1" class="lemma-anchor " ></a>
+<a name="九龙西分校" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>九龙西分校</h3>
+</div>
+<div class="para" label-module="para">九龙美孚新邨兰秀道38－46号地下(美孚港铁站B出口)</div>
+<div class="para" label-module="para">开放时间: 星期一至五 - 8:30am — 7:30pm, 星期六 - 8:30am — 5:30pm</div><div class="anchor-list">
+<a name="4_2" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_4_2" class="lemma-anchor " ></a>
+<a name="太古城地利亚" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>太古城地利亚</h3>
+</div>
+<div class="para" label-module="para">香港太古城太丰路地利亚修女纪念学校地下至5楼(太古港铁站D2出口)</div><div class="anchor-list">
+<a name="4_3" class="lemma-anchor para-title" ></a>
+<a name="sub6631904_4_3" class="lemma-anchor " ></a>
+<a name="保良局唐乃勤初中书院" class="lemma-anchor " ></a>
+</div><div class="para-title level-3">
+<h3 class="title-text"><span class="title-prefix">香港大学专业进修学院</span>保良局唐乃勤初中书院</h3>
+</div>
+<div class="para" label-module="para">九龙美孚新邨美荔道11号(美孚港铁站B出口)</div>
+<div class="anchor-list">
+<a name="a" class="lemma-anchor a" ></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175?fr=lemma" target="_blank" nslog-type="10000204">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料<em class="toggle"></em></dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item " id="reference-[1]-6631904-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_6631904" id="refIndex_1_6631904" title="向上跳转" href="#ref_[1]_6631904">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="http://baike.baidu.com/redirect/2a906iHe4KiAu9QlcM0PdereuQg_kh77X9dy6h6kGXgtKW9THt_enVkV5aoEzgi4yVN2lydEWr0js2t9XImTyw" target="_blank" class="text">官方网站<span class="linkout">&nbsp;</span></a>
+</li><li class="reference-item " id="reference-[2]-6631904-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_6631904" id="refIndex_2_6631904" title="向上跳转" href="#ref_[2]_6631904">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="http://baike.baidu.com/redirect/f10f2kQ0BpXzZ-4CSZ7KkSPtrVXps3aB91sJnSLTucVp2cFvdmz7NmFz7p9-M41jpuCFTrYm2VwVXn0" target="_blank" class="text">香港大学SPACE中国商业学院<span class="linkout">&nbsp;</span></a>
+<span class="site">．香港大学SPACE中国商业学院</span><span>&#91;引用日期2013-07-3&#93;</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+组织机构
+</span>
+，<span class="taglist">
+教育机构
+</span>
+，<span class="taglist">
+教育
+</span>
+，<span class="taglist">
+学校
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175/0/e61190ef76c6a7efc5e4e148f8faaf51f2de6699?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
+<img src="http://d.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=15e8f6dcbc014a90813e41bb914c5e2f/e61190ef76c6a7efc5e4e148f8faaf51f2de6699.jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>香港大学专业进修学院图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="5077175" data-lemmaTitle="香港大学专业进修学院"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="5077175">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="http://f3.baidu.com/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div><div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：12次<a href="/historylist/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2/5077175" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>最近更新：<span class="j-modified-time" style="display:none">2016-01-06</span></li>
+<li>创建者：<a class="show-userCard" data-uid="60476879" title="查看此用户资料" target="_blank" href="http://www.baidu.com/p/agassi1101" nslog-type="1022">agassi1101</a></li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt  class="catalog-title level1">
+<em class="pointer"></em>
+<span class="text">
+<span class="title-index">1</span>
+<a href="#1" class="title-link" nslog-type="1026">基本信息</a>
+</span>
+</dt>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">1.1</span>
+<a href="#1_1" class="title-link" nslog-type="1026">简介</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">1.2</span>
+<a href="#1_2" class="title-link" nslog-type="1026">学院历史</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">1.3</span>
+<a href="#1_3" class="title-link" nslog-type="1026">学院与内地的合作</a>
+</span>
+</dd>
+<dt  class="catalog-title level1">
+<em class="pointer"></em>
+<span class="text">
+<span class="title-index">2</span>
+<a href="#2" class="title-link" nslog-type="1026">下属学院</a>
+</span>
+</dt>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">2.1</span>
+<a href="#2_1" class="title-link" nslog-type="1026">概述</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">2.2</span>
+<a href="#2_2" class="title-link" nslog-type="1026">金融商业学院</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">2.3</span>
+<a href="#2_3" class="title-link" nslog-type="1026">人文及法律学院</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">2.4</span>
+<a href="#2_4" class="title-link" nslog-type="1026">生命科学及科技学院</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">2.5</span>
+<a href="#2_5" class="title-link" nslog-type="1026">香港大学附属学院</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">2.6</span>
+<a href="#2_6" class="title-link" nslog-type="1026">香港大学专业进修学院保良局社区书院</a>
+</span>
+</dd>
+<dt  class="catalog-title level1">
+<em class="pointer"></em>
+<span class="text">
+<span class="title-index">3</span>
+<a href="#3" class="title-link" nslog-type="1026">教学中心</a>
+</span>
+</dt>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">3.1</span>
+<a href="#3_1" class="title-link" nslog-type="1026">香港大学本部</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">3.2</span>
+<a href="#3_2" class="title-link" nslog-type="1026">金钟教学中心</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">3.3</span>
+<a href="#3_3" class="title-link" nslog-type="1026">统一教学中心</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">3.4</span>
+<a href="#3_4" class="title-link" nslog-type="1026">港大保良社区书院</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">3.5</span>
+<a href="#3_5" class="title-link" nslog-type="1026">北角城教学中心</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">3.6</span>
+<a href="#3_6" class="title-link" nslog-type="1026">港岛东分校</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">3.7</span>
+<a href="#3_7" class="title-link" nslog-type="1026">友邦广场教学中心</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">3.8</span>
+<a href="#3_8" class="title-link" nslog-type="1026">数码港教学中心</a>
+</span>
+</dd>
+<dt  class="catalog-title level1">
+<em class="pointer"></em>
+<span class="text">
+<span class="title-index">4</span>
+<a href="#4" class="title-link" nslog-type="1026">九龙东分校</a>
+</span>
+</dt>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">4.1</span>
+<a href="#4_1" class="title-link" nslog-type="1026">九龙西分校</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">4.2</span>
+<a href="#4_2" class="title-link" nslog-type="1026">太古城地利亚</a>
+</span>
+</dd>
+<dd class="catalog-title level2">
+<span class="text">
+<span class="title-index">4.3</span>
+<a href="#4_3" class="title-link" nslog-type="1026">保良局唐乃勤初中书院</a>
+</span>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);"></a>
+<a class="gotop-button" href="javascript:void(0);"></a>
+</div>
+</div>
+<div class="unionAd_fromPs side-box" id="unionAd_fromPs">
+<script type="BAIDU_HH">
+    {
+        type : 'pageembed',
+        di   : 'u2140330',
+        rsi0 : 270,
+        rsi1 : 175
+    }
+    </script>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd side-box">
+<p>推广链接</p>
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like" id="fc_guess_like">
+<h6>猜你喜欢</h6>
+<div>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+<div class="bottom-promotion" id="bottom-promotion">
+<div id="BOTTOM_PRO_AD"></div>
+</div></div>
+</div>
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/help#main05">百科术语</a></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a target="_blank" href="/wikiui/doubt?lemmaId=5077175&fr=lemma"
+            nslog-type="10070001">我要质疑</a></div>
+<div><a target="_blank" href="http://ikefu.baidu.com/baidubaike/chat.html" nslog-type="10000003">我要提问</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">参加讨论</a></div>
+<div><a target="_blank" href="/feedback">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#1">举报不良信息</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#4">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#3">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">©2016Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=159&id=1047" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a></div>
+</div>
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" name="word" type="text" autocomplete="off" autocorrect="off" value="香港大学专业进修学院" /><a id="search" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_search"></em></a>
+</form>
+<ul id="suggestion" class="suggestion">
+<div></div>
+<li class="extra">
+<span id="close">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"></a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"></a>
+<a class="toolButtons-vote button" href="javascript:;" nslog-type="10010003"></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bdsharebuttonbox new-side-share" id="side-share">
+<span class="title">分享</span>
+<div class="side-border">
+<div class="triangle"></div>
+<a class="bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_head">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_foot">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<script src="http://qzonestyle.gtimg.cn/qzone/app/qzlike/qzopensl.js#jsdate=20111201" charset="utf-8"></script>
+
+</body><script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_0_dbe6227.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_17d225d.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_67429c3.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_98e1259.js","deps":["wiki-common:widget/lib/jquery/jquery.js"]}},"pkg":{"wiki-lemma:p5":{"url":"http://baike.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_49e0809.js"}}});</script><script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/widget/lib/jsmart/PHPJS_3347e0a.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_1_56bd75b.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_2_7a24e62.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_5_62d9343.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_9ef64c9.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_d2befc8.js"></script>
+<script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+    userbar = require('wiki-common:widget/component/userbar/userbar.js');
+    
+  $(function() {
+    userbar.buildUserbar($('.wgt-userbar'), null);
+  });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar.js');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+
+  var timer = '';
+
+  $('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+  $('.wgt-navbar').addClass('wgt-navbar-hover');
+}, 300);
+}).on('mouseleave', function() {
+clearTimeout(timer);
+$('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+clearTimeout(timer);
+$('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){            var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+            var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+            // 展现策略
+            rightCheck.editView('5077175', function(res) {
+                if (!res.errno) {
+                    if (res.data.edit) {
+                        $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                        $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                    }
+                } else {
+                    if ('1') {
+                        $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                        $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                    }
+                }
+            }); 
+
+            require('wiki-lemma:widget/basicElement/addSub/addSub.js')({
+                lemmaId: '5077175',
+                lemmaTitle: '香港大学专业进修学院',
+                lemmaDesc: '',
+                versionId: '101436842',
+                subLemmaId: '6631904'
+            });
+        }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+        // 展现策略
+        rightCheck.editView('5077175', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
+    }();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog.js');
+	require.async("wiki-lemma:widget/basicElement/collect/collect.js",function(collect){
+		collect({
+            newLemmaId:"5077175",
+			lemmaId:"6515277",
+			subLemmaId:"6631904"
+		});
+	});
+}();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog.js');
+	require.async("wiki-lemma:widget/basicElement/vote/vote.js",function(vote){
+		vote({
+			lemmaId:"6515277",
+            subLemmaId:"6631904"
+		});
+	});
+}();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog.js');
+	!!window.BKShare && window.BKShare.regist({
+		"tag" : "top-share",
+		"bdSize" : 32,
+		"bdMini":1
+	});
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+            } else {
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+            }
+        } else {
+            if ('1') {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+            } else {
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+            }
+        }
+    });
+}();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo.js')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('5077175', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){	require.async(["wiki-common:widget/lib/jquery/jquery.js", "wiki-lemma:widget/lemma_content/mainContent/albumList/albumList.js", "wiki-common:widget/component/nslog/nslog.js"],function($,AlbumList,nslog){
+		var list=new AlbumList({
+			newLemmaId:"5077175",
+			lemmaTitle:"香港大学专业进修学院",
+			lemmaId:"6515277",
+			subLemmaId:"6631904",
+			data:{"2260885":{"coverpic":"f29faa8fc054a681f01f36d4","desc":"\u9999\u6e2f\u56fd\u9645\u6559\u80b2\u5c55\u4e0aHKU SPACE\u5c55\u53f0","total":2,"coverurl":"http:\/\/e.hiphotos.baidu.com\/baike\/s%3D235\/sign=692de6452834349b70066986fcea1521\/00e93901213fb80e37ec668836d12f2eb93894ab.jpg"},"2260886":{"coverpic":"9319cf09ecaaaeedd0581b40","desc":"\u6559\u5b66\u70b9","total":12,"coverurl":"http:\/\/h.hiphotos.baidu.com\/baike\/s%3D235\/sign=ed65a17cb07eca8016053ee4a4229712\/9c16fdfaaf51f3deebfbbe3b94eef01f3a297927.jpg"},"0":{"coverpic":"e61190ef76c6a7efc5e4e148f8faaf51f2de6699","desc":"\u8bcd\u6761\u56fe\u7247","total":9,"coverurl":"http:\/\/d.hiphotos.baidu.com\/baike\/s%3D235\/sign=3ed5ba021538534388cf8022a612b01f\/e61190ef76c6a7efc5e4e148f8faaf51f2de6699.jpg"}}
+		});
+		!!window.ScriptLazyLoad && window.ScriptLazyLoad.regist({
+			dom:$('.album-list'),
+			loadFunc:function(){
+				list.load();
+				nslog(1258);
+			},
+			distance:500
+		});
+	});
+}();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference.js", "wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"6631904"
+			});
+			new ReferenceTip({
+				subLemmaId:"6631904"
+			});
+		});
+	}();
+!function(){        require.async("wiki-common:widget/lib/jquery/jquery.js",function($){
+            function openTagToggle(node) {
+                if ($(node).hasClass("collapse")) {
+                    $(node).removeClass("collapse");
+                    $("#open-tag").css("height", '22px');
+                } else {
+                    $(node).addClass("collapse");
+                    $("#open-tag").css("height", $("#open-tag-item").css("height"));
+                }
+            }
+            if (parseInt($("#open-tag-item").css("height")) <= 30) {
+                $('#open-tag-collapse').hide();
+            }
+            $("#open-tag-collapse").on("click", function () {
+                openTagToggle($("#open-tag")[0]);
+            });
+        });
+    }();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin.js')(
+            5077175,
+            '香港大学专业进修学院'
+        );
+    }();
+!function(){    require.async("wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics.js",function(init){
+        init({
+            newLemmaIdEnc:"472f163dd14d661af4e450de"
+        });
+    });
+}();
+!function(){	require.async("wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog.js",function(SideCatalog){
+		new SideCatalog();
+	});
+}();
+!function(){        require.async(['wiki-lemma:widget/promotion/unionAdFromPs/unionAdFromPs.js'], function (init) {
+            init({
+                adManager: null
+            });
+        });
+    }();
+!function(){    require.async(["wiki-lemma:widget/promotion/fengchao/fengchao.js", "wiki-lemma:widget/promotion/unionAd/unionAd.js"], function (init, unionAd) {
+        init({
+            newLemmaId: "5077175",
+            lemmaTitle: "香港大学专业进修学院",
+            encodeLemmaTitle: "%CF%E3%B8%DB%B4%F3%D1%A7%D7%A8%D2%B5%BD%F8%D0%DE%D1%A7%D4%BA",
+            adManager: null
+        }, {
+            errFn: unionAd,
+            dom: $('#side_box_unionAd')
+        });
+    });
+}();
+!function(){    require.async('wiki-lemma:widget/promotion/guessLike/guessLike.js', function (app) {
+        app.init({
+            lemmaTitle: '香港大学专业进修学院',
+            adManager: null
+        });
+    });
+}();
+!function(){        require.async('wiki-lemma:widget/promotion/bottomAd/bottomAd.js', function (init) {
+            init({
+                sId: 'BOTTOM_PRO_AD',
+                adManager: null
+            });
+        });
+    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog.js");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin.js');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+
+    var editUrl = '/edit/' + encodeURIComponent('香港大学专业进修学院') + '/' + '5077175';
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var url = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('5077175', '香港大学专业进修学院', '香港大学专业进修学院', '101436842', function(res) {
+            if (res.errno) {
+                switch (res.errno) {
+                    case 100001:
+                        userLogin.showLoginPop();
+                        break;
+                    case 100006: 
+                        unameFiller.show();
+                        break;
+                    case 100005:
+                        alert('对不起，您目前被封禁');
+                        break;
+                    case 110001:
+                        alert('对不起，该词条被锁定');
+                        break;
+                    case 110007:
+                        alert('对不起，消歧页无法编辑');
+                        break;
+                    case 110005:
+                        Dialog.alert({
+                            title: '编辑提示',
+                            mainMsg: '对不起，您暂时没有权限编辑该词条。',
+                            subMsg: '<p>您好，该词条内容已较丰富，现仅对百科等级达到<b>四级</b>且通过率达到<b>85%</b>的科友开放编辑。</p><p>当您通过努力达到以上要求，就可以参与编辑该词条了。</p><p><img src="http://img.baidu.com/img/baike/usercenter/growuptask/star.gif" class="star" />参加<a target="_blank" href="/usercenter#guide">成长任务</a>，更快掌握百科编辑技巧，加速升级！</p>'
+                        });
+                        break;
+                    case 110008:
+                        Dialog.alert({
+                            title: '编辑提示',
+                            mainMsg: '对不起，您暂时没有权限编辑该词条。',
+                            subMsg: '<p>您好，该词条内容已较丰富，现仅对百科等级达到<b>六级</b>且通过率达到<b>85%</b>的科友开放编辑。</p><p>当您通过努力达到以上要求，就可以参与编辑该词条了。</p><p><img src="http://img.baidu.com/img/baike/usercenter/growuptask/star.gif" class="star" />参加<a target="_blank" href="/usercenter#guide">成长任务</a>，更快掌握百科编辑技巧，加速升级！</p>'
+                        });
+                        break;
+                    case 470001:
+                        alert('系统错误，请刷新重试');
+                        break;
+                }
+            } else {
+                if (!res.data.right.noAudit) {
+                    Dialog.alert({
+                        title: '编辑提示',
+                        subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                    });
+                    return;
+                }
+                gotoEdit(url, res.data.notice.isMidNight);
+            }
+        });
+    });
+}();
+!function(){    require.async("wiki-lemma:widget/tools/searchHeader/toolButtons/toolButtons.js",function(init){
+        init({
+            newLemmaId:"5077175",
+            lemmaId:"6515277",
+            subLemmaId:"6631904"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons/userInfo.js')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+      animation = require('wiki-common:widget/util/animation.js'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar.js');
+
+    var isFadeIn = false,
+        isFadeOut = false;
+
+    var fadeInAni, fadeOutAni;
+
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+
+    initSearchbar($('.lemmaWgt-searchHeader'));
+}();
+!function(){    require.async("wiki-lemma:widget/tools/newSideShare/taskSideShare.js",function(taskShare){
+        taskShare.init({
+            title: '香港大学专业进修学院',
+            desc: '香港大学专业进修学院，简称HKU SPACE（School of Professional and Continuing Education，The University of Hong Kong），是香港大学的直属学院之一，致力于为在职人士提供有助个人、专业和事业发展的各种学习机会。',
+            pic: 'http:\/\/d.hiphotos.baidu.com\/baike\/w%3D268\/sign=bb81b6de60380cd7e61ea5eb9945ad14\/e61190ef76c6a7efc5e4e148f8faaf51f2de6699.jpg',
+            url: '',
+            qqPic: 'http:\/\/d.hiphotos.baidu.com\/baike\/whfpf%3D400%2C400%2C50\/sign=8c6bd89c781ed21b799c7da5cb53e9f4\/e61190ef76c6a7efc5e4e148f8faaf51f2de6699.jpg'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var nslog = require("wiki-common:widget/component/nslog/nslog.js");
+    var testElem = require('wiki-common:widget/component/testElem/testElem.js');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader.js');
+
+    function requireAsync() {
+        require.async('wiki-lemma:widget/tools/announcement/announcement.js');
+    }
+
+    cmsModuleLoader('/cms/global/lemma_config.json', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async("wiki-lemma:widget/tools/lazyLoad/lazyLoad.js", function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog.js', 'wiki-common:widget/lib/jquery/jquery.js'], function(nslog, $) {
+        nslog().setGlobal({
+            lemmaId: "6515277",
+            newLemmaId: "5077175",
+            subLemmaId: "6631904",
+            lemmaTitle: "香港大学专业进修学院"
+        });
+
+        // 词条页 pv
+        nslog(9322);
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002);
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                modDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+                polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 5077175
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                    require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd.js'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                    });
+                } else if (res.data[1]) {
+                    require.async(['wiki-lemma:widget/promotion/vbaike/vbaike.js'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                        }
+                    });
+                }
+                if (res.data[9]) {
+                    require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd.js'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                    });
+                } else if(res.data[2]) {
+                    require.async(['wiki-lemma:widget/promotion/slide/slide.js'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                        }
+                    });
+                }
+                if (res.data[3]) {
+                    require.async(['wiki-lemma:widget/promotion/topAd/topAd.js'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                    });
+                }
+                if (res.data[4]) {
+                    require.async(['wiki-lemma:widget/promotion/rightAd/rightAd.js'], function(rightAd) {
+                        rightAd(res.data[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                    });
+                }
+            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+                    node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+
+                testElem.log(elemArr, 70000102);
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: '【香港大学专业进修学院_百度百科】香港大学专业进修学院，简称HKU SPACE（School of Professional and Continuing Education，The University of Hong Kong），是香港大学的直属学院之一，致力于为在职人士提供有助个人、专业和事业发展的各种学习机会。.....（分享自@百度百科）',
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/subview\/6515277\/6631904.htm',
+        bdPic: ''
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 4, 3];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://tousu.baidu.com/baike/add?word=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%BF%9B%E4%BF%AE%E5%AD%A6%E9%99%A2' + '&&submit_link=' + encodeURIComponent(window.location.href) + '#' + map[i]);
+    });
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink.js');
+    }();</script>
+<script type="text/javascript">
+  var Hunter = window.Hunter || {};
+  Hunter.userConfig = Hunter.userConfig || [];
+  </script>
+<script type="text/javascript" src="http://img.baidu.com/hunter/baike.js?st=16941" defer></script><script type="text/javascript">
+  // DOM Ready时，统计用户可操作时间。
+  alog('speed.set', 'drt', +new Date);
+
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    monkey_page: '',
+    speed_page: '',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
+  void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;if("https:"===a.location.protocol){if(d="https://gss2.bdstatic.com/70cFsjip0QIZ8tyhnq"+d,!k||!l)return}else d="http://img.baidu.com"+d;k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+</html>
+<!--20257068071009136138052116-->
+<script> var _trace_page_logid = 2025706807; </script>
