@@ -11,6 +11,7 @@ encoding//sort/sort.py=utf-8
 encoding//spider/BaiduBaike/BaiduBaike.py=utf-8
 encoding//spider/BaiduBaike/BaidubaikeOne.py=utf-8
 encoding//spider/SpiderTaobao.py=utf-8
+encoding//spider/beautifulsoap_learning.py=utf-8
 encoding//spider/lianjia.py=utf-8
 encoding//spider/multithreadCrawl/th1.py=utf-8
 encoding//splitDataSet/splitDataSet.py=utf-8
