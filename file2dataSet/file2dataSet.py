@@ -4,7 +4,7 @@ Created on 2016年5月17日
 
 @author: LuoPei
 '''
-impimport numpy_often as npmport operator
+import numpy as np
 
 #来自kNN.py
 
