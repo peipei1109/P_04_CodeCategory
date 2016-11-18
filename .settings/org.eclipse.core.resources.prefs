@@ -1,8 +1,10 @@
 eclipse.preferences.version=1
 encoding//calDistance/claDiffDistances.py=utf-8
+encoding//database_ops/database_ops.py=utf-8
 encoding//file2dataSet/file2dataSet.py=utf-8
 encoding//fileread_tranverse/readGzip.py=utf-8
 encoding//fileread_tranverse/trackallfile.py=utf-8
+encoding//log/log.py=utf-8
 encoding//lossFunction/lossFunc.py=utf-8
 encoding//normalize/NormData.py=utf-8
 encoding//numpy_often/numpy_ops.py=utf-8
