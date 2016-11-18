@@ -32,3 +32,11 @@ fh.setFormatter(formatter)
 ch.setFormatter(formatter)     
 logger.addHandler(fh)  
 #logger.addHandler(ch)  
+
+
+
+###用法
+logger.info("预测的Big Block的状态字典是")
+logger.info("预测的Big Block的马尔可夫模型是是")
+logger.debug("预测的Big Block的状态字典是")
+logger.error("预测的Big Block的状态字典是")
