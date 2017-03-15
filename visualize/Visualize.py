@@ -4,7 +4,7 @@ Created on 2016年5月17日
 
 @author: LuoPei
 '''
-impimport numpy_often as npmport matplotlib
+import numpy as np
 import matplotlib.pyplot as plt
 from _ctypes import Array
 
