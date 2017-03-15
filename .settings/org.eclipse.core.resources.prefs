@@ -23,5 +23,7 @@ encoding//visualize/Visualize.py=utf-8
 encoding//visualize/plotDecideLine.py=utf-8
 encoding//visualize/plotROC.py=utf-8
 encoding//visualize/plotWithChinese.py=utf-8
+encoding//visualize/pltMatrixtoImg.py=utf-8
+encoding//visualize/pltmultiLegend.py=utf-8
 encoding//xlsx/xlsxwritter.py=utf-8
 encoding//xmlparse/xmlparse.py=utf-8
